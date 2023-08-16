@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Aprendizado</string>
+    <string name="email">  Email</string>
+    <string name="password">  Senha</string>
+    <string name="buttonLogin">LOGIN</string>
+    <string name="Register">Ainda não é cadastrado? Cadastre-se!</string>
+    <string name="forgotPassword">Esqueceu sua senha?</string>
+    <string name="logo">Logo</string>
+    <string name="recuperar_senha">Recuperar Senha</string>
+</resources>
